@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "asda",
+      "description": "asda",
+      "id": 1
+    },
+    {
+      "title": "a",
+      "description": "a",
+      "userId": "101905083207042520321",
+      "id": 2
+    },
+    {
+      "title": "New Stream VIDEO",
+      "description": "the last one",
+      "userId": "101905083207042520321",
+      "id": 3
+    }
+  ]
+}
